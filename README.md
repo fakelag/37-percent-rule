@@ -10,5 +10,4 @@
 
 ## Images
 
-### Move arrows
-![console window](https://raw.githubusercontent.com/fakelag/37-percent-rule/master/img/img0.png)
+![console window](https://raw.githubusercontent.com/fakelag/37-percent-rule/master/img/img0.png =250x250)
