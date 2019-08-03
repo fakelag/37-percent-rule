@@ -10,4 +10,4 @@
 
 ## Images
 
-![console window](https://raw.githubusercontent.com/fakelag/37-percent-rule/master/img/img0.png =250x250)
+<img src="https://raw.githubusercontent.com/fakelag/37-percent-rule/master/img/img0.png" alt="console" width="256px" height="256px">
