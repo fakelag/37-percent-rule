@@ -2,6 +2,10 @@
 
 37 percent rule describes a solution to the [optimal stopping problem](https://en.wikipedia.org/wiki/Optimal_stopping). This repository is a miniature simulation proving the existence of the rule.
 
+Additional reading
+- [Algorithms to Live By: The Computer Science of Human Decisions ](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions-dp-1627790365/dp/1627790365/)
+- [Secretary problem](https://en.wikipedia.org/wiki/Secretary_problem)
+
 ## Languages
 * C
 
